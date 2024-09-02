@@ -1,8 +1,5 @@
-from vpython import *
-## Web VPython 3.2
 # Author: Fady Youssef
 # Date: 12/09/22
-
 # Description:
 # A Web VPython simulation modeling projectile motion of a ball under different gravities 
 # (Earth, Mars, Venus, Jupiter). Users can start, pause, reset the simulation, and switch 
@@ -10,6 +7,7 @@ from vpython import *
 # upon landing, illustrating the effects of gravitational and wind resistance forces.
 
 from vpython import *
+Web VPython 3.2
 
 # Setup the canvas and environment parameters
 scene = canvas(center=vector(1, 1, 0), background=color.black)
